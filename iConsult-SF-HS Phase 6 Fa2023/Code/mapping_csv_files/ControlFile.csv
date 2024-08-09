@@ -1,0 +1,7 @@
+ControlVariables,Value
+Name_of_file,ERX\mapping_csv_files\Student_import_file_EnrollmentRX.csv
+Type_of_file,EnrollmentRX
+Start_date,1/24/2024
+Input_mapping_file,ERX\mapping_csv_files\Input_Output_mapping_EnrollmentRX.csv
+UnderGrad_Majors,None
+Is_required,No

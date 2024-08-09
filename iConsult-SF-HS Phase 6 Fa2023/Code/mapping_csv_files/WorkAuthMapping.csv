@@ -1,0 +1,89 @@
+Admissions Visa Status,12 T Id
+A1 - Diplomatic,11
+A2 - Dependent of Diplomat,29
+A3 - Attendant of Diplomat,31
+AS - Asylee,23
+B1 - Visitor-Business,30
+B2 - Visitor-Pleasure,2
+BE - Prospective Exchange Visitor,31
+BP - Prospective Student,13
+C1 - Visitors in Transit,13
+CB - Citizen of U.S.,1
+CR - Conditional Resident,31
+D1 - Foreign Crewman,31
+DA - Deferred Action for Childhood Arrivals,14
+E1 - Treaty Trader and Dependents,31
+E2 - Treaty Investor and Dependents,31
+E3 - E-3-Specialty Occupation Worker (Australian),31
+F1 - Foreign Student,3
+F2 - Foreign Student Dependent,31
+G1 - International Organization Representative and Dependents,31
+G2 - International Organization Representative and Dependents,31
+G3 - International Organization Representative and Dependents,31
+G4 - International Organization Representative and Dependents,12
+G5 - Attendant and their Dependents of Intnl Org Rep,31
+H1 - Temporary Specialty Occupation,4
+H2 - Temporary Agricultural Work,31
+H3 - Trainee,31
+"H4 - Dependent of H1,H2,H3,Ha,Hb",9
+HA - Registered Nurse,31
+HB - Temporary Non-agri. Work,31
+IA - Journalists,31
+J1 - Exchange Visitor,6
+J2 - Dependent of J1,15
+K1 - Fiance(e) of US Citizen,31
+K2 - Child Immigrating with a K1,13
+K3 - Overseas Spouse of US Citizen Waiting Approval of PR,13
+K4 - Child Immigrating with a K3,13
+L1 - Intra-company Transfer,7
+L2 - Dependent of L1,26
+M1 - Vocational Student,31
+M2 - Dependent of M1,31
+N1 - NATO One,31
+N2 - NATO Two,31
+N3 - NATO Three,31
+N4 - NATO Four,31
+N5 - NATO Five,31
+N6 - NATO Six,31
+N7 - NATO Seven,31
+N8 - Parent of an SK-3,31
+N9 - Child of an N-8- SK-1- SK-2- or SK-3,13
+O1 - Alien-Special Talent,31
+O2 - Assistant to O1,31
+O3 - Dependent of O1 or O2,31
+OS,31
+P1 - Alien Athlete or Entertainer,31
+P2 - Entertainer or Artist as part of Reciprocal Exchange,31
+P3 - Alien Artist-Unique,31
+"P4 - Dependent of P1, P2, P3",31
+PA - Asylum Applicant,31
+PI - Paroled in the Public Interest,31
+PP - Pending Permanent Resident or Resident Alien,10
+PR - Permanent Resident or Resident Alien,1
+PT - Permanent Temporary Resident Status under Legalization of Program,31
+Q1 - Alien-International Exchange,31
+Q2 - Irish (Walsh),31
+"Q3 - Dependents of Q1, Q2",31
+R1 - Alien-Religious Organization,31
+R2 - Dependent of R1,31
+RF - Refugee,31
+TD - Dependents of TN,31
+TN - NAFTA Professionals-Canada or Mexico,31
+TP - Temporarily Protected,31
+UA - Other Visa Status; not valid for employment,13
+V1 - Spouse of a PR Waiting Approval of PR Status,31
+V2 - Child of a PR Waiting Approval of PR Status,13
+V3 - Derivative Child of a V1 or V2,13
+WB - Visa Waiver-Business,31
+WT - Visa Waiver-Pleasure,31
+X1 - Pending Determination-Visa Category,13
+X2 - Holding Status-Requested Information,13
+XX - Holding Status-Review Information,13
+H4 - Dependent of H1-H2-H3-Ha-Hb,31
+P4 - Dependent of P1- P2- P3,31
+Q3 - Dependents of Q1- Q2,31
+G1 - International Organization Representative & Dependents,31
+G2 - International Organization Representative & Dependents,31
+G3 - International Organization Representative & Dependents,31
+G4 - International Organization Representative & Dependents,31
+"N9 - Child of an N-8, SK-1, SK-2, or SK-3",13
